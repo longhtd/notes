@@ -8,7 +8,7 @@ module.exports = async (tp) => {
 
   // Tạo note từ template
   return tp.file.create_new(
-    tp.file.find_tfile("daily-template.md"),
+    tp.file.find_tfile("DailyNote.md"),
     file,
     false,
     folder
