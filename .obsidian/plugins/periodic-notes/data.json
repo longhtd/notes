@@ -5,7 +5,7 @@
   "daily": {
     "format": "YYYY/MM/DD/YYYY-MM-DD",
     "template": "01-META/Templates/DailyNote.md",
-    "folder": "",
+    "folder": "03-DAILY",
     "enabled": true
   },
   "weekly": {
