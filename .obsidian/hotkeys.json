@@ -1,5 +1,6 @@
 {
-  "file-explorer:new-file": [
+  "file-explorer:new-file": [],
+  "templater-obsidian:create-01-META/Templates/DailyNote.md": [
     {
       "modifiers": [
         "Mod"

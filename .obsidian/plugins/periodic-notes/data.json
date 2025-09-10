@@ -3,9 +3,9 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "YYYY/MM/DD/YYYY-MM-DD",
     "template": "01-META/Templates/DailyNote.md",
-    "folder": "03-DAILY/2025",
+    "folder": "",
     "enabled": true
   },
   "weekly": {

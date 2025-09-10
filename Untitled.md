@@ -4,13 +4,14 @@ modified: {{date:YYYY-MM-DD HH:mm:ss}}
 aliases: [{{date:YYYY-MM-DD}}]
 tags: [daily/{{date:YYYY}}/{{date:MM}}/{{date:YYYY-MM-DD}} ]
 ---
-# <% tp.file.title %>
- <% tp.web.daily_quote() %>
+# Untitled
+ > [!quote] They can do all because they think they can.
+> — Virgil
 
 
 
 
-
+44343
 
 
 

@@ -1,17 +1,12 @@
 {
   "command_timeout": 5,
   "templates_folder": "01-META/Templates",
-  "templates_pairs": [
-    [
-      "",
-      ""
-    ]
-  ],
+  "templates_pairs": [],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
-  "enable_system_commands": false,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "01-META/Scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -29,7 +24,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "01-META/Templates/DailyNote.md"
   ],
   "startup_templates": [
     "01-META/Templates/DailyNote.md"

@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-META/Templates/DailyNote.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DailyNote"
-            }
-          },
-          {
-            "id": "1e371a48fbd564c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-META/Templates/DailyNote.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DailyNote"
-            }
-          },
-          {
-            "id": "73f2382fb7d21026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chưa đặt tên 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chưa đặt tên 1"
-            }
-          },
-          {
-            "id": "e961005fbb3775d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chưa đặt tên 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chưa đặt tên 2"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +170,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e961005fbb3775d6",
+  "active": "d7f00880cc9c357a",
   "lastOpenFiles": [
-    "Chưa đặt tên 1.md",
-    "Chưa đặt tên 2.md",
+    "Untitled.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
     "01-META/Templates/DailyNote.md",
-    "02-RESOURCES/Research/Templates.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "01-META/Scripts/create-daily-note.js",
+    "01-META/Scripts",
+    "01-META/scripts/create-daily-note.js",
+    "01-META/scripts",
     "Chưa đặt tên.md",
+    "Chưa đặt tên 2.md",
+    "Chưa đặt tên 1.md",
+    "02-RESOURCES/Research/Templates.md",
     "03-DAILY/2025/09/07/2025-09-07 - Nguyễn Tùng Sơn - Dạo gần đây Sơn chia sẻ khá nhiều với anh em về...  Facebook.md",
     "01-META/Attachments/20250725-1355-39.1005303.mp4",
     "01-META/Attachments/Pasted image 20250907232928.png",
@@ -237,24 +207,11 @@
     "03-DAILY/2025/09/08/2025-09-08 - Video  Facebook.md",
     "03-DAILY/2025/09/07/💸 20 Mô hình MMO hiệu quả nhất hiện nay (2025).md",
     "03-DAILY/2025/09/07/🛡️ Vô hiệu hóa Windows Update vĩnh viễn.md",
-    "03-DAILY/2025/09/07/👩‍⚖️ 20 Chuyên gia Influencer hàng đầu trong lĩnh vực pháp lý, thuế và vận hành doanh nghiệp tại Việt Nam.md",
-    "03-DAILY/2025/09/07/🛡️ Tắt cập nhật Windows Update.md",
-    "03-DAILY/2025/09/07/🛠️20 Giải pháp (Công cụ Website, Phần mềm) hỗ trợ tuân thủ pháp luật và thuế tại Việt Nam.md",
-    "03-DAILY/2025/09/07/🌟 20 nhân vật ảnh hưởng trong YouTube SEO, AI NLP & Content Analytics.md",
-    "03-DAILY/2025/09/07/🌟 20 nhân vật ảnh hưởng nên follow để học làm YouTube.md",
-    "03-DAILY/2025/09/07/🌟 20 Chuyên Gia YouTube Nên Follow.md",
-    "03-DAILY/2025/09/07/Điều kỳ diệu của Biết.md",
-    "03-DAILY/2025/09/07/Youtube key thân cây.md",
-    "03-DAILY/2025/09/07/🌟 20 Người ảnh hưởng hàng đầu lĩnh vực MMO – Nên theo dõi.md",
     "03-DAILY/2025/09/08",
     "03-DAILY/2025/09/07",
     "03-DAILY/2025/09/01",
     "03-DAILY/2025/09",
     "03-DAILY/2025",
-    "03-DAILY",
-    "02-RESOURCES/Research",
-    "02-RESOURCES",
-    "06-DAILY/2025/09/07",
     "01-META/Attachments/Pasted image 20250905161008.png",
     "01-META/Attachments/Pasted image 20250831231827.png",
     "01-META/Attachments/Pasted image 20250905160630.png",
