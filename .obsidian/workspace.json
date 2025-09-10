@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "9487cfbe7b47c60f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a68c4c234e6e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7f00880cc9c357a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-META/Templates/DailyNote.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DailyNote"
+            }
+          },
+          {
+            "id": "1e371a48fbd564c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-META/Templates/DailyNote.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DailyNote"
+            }
+          },
+          {
+            "id": "73f2382fb7d21026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chưa đặt tên 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chưa đặt tên 1"
+            }
+          },
+          {
+            "id": "e961005fbb3775d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chưa đặt tên 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chưa đặt tên 2"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b3eb8bf1f84fcfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "129372a1e006c2fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e7291b02d4d3d6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "4662580da352d914",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "3e3e3cad31004c08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8ade20ce6338388",
+    "type": "split",
+    "children": [
+      {
+        "id": "f85a1b5c1f39b864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254aae5a05d9432f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-META/Templates/DailyNote.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến của DailyNote"
+            }
+          },
+          {
+            "id": "d8a21b0b9c469bf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra"
+            }
+          },
+          {
+            "id": "c65849dc75067363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb96451faabf2998",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e961005fbb3775d6",
+  "lastOpenFiles": [
+    "Chưa đặt tên 1.md",
+    "Chưa đặt tên 2.md",
+    "01-META/Templates/DailyNote.md",
+    "02-RESOURCES/Research/Templates.md",
+    "Chưa đặt tên.md",
+    "03-DAILY/2025/09/07/2025-09-07 - Nguyễn Tùng Sơn - Dạo gần đây Sơn chia sẻ khá nhiều với anh em về...  Facebook.md",
+    "01-META/Attachments/20250725-1355-39.1005303.mp4",
+    "01-META/Attachments/Pasted image 20250907232928.png",
+    "01-META/Attachments/Pasted image 20250907232244.png",
+    "01-META/Attachments/Pasted image 20250907231139.png",
+    "01-META/Attachments/Pasted image 20250907182150.png",
+    "03-DAILY/2025/09/07/Cụ Việt.md",
+    "03-DAILY/2025/09/01/2025-09-01 - Flow.md",
+    "03-DAILY/2025/09/01/2025-09-01 - Tài khoản VEO 3 AI, Google AI Ultra giá rẻ, Google đang thắt chặt đăng ký  Viết bởi yoyonguyen.md",
+    "03-DAILY/2025/09/07/2025-09-07- Cụ Diệu - thiết bị.md",
+    "03-DAILY/2025/09/01/2025-09-01 - LABS.GOOGLE.md",
+    "03-DAILY/2025/09/01/2025-09-01 - ‎Google Gemini.md",
+    "02-RESOURCES/Research/Long Le.md",
+    "06-DAILY/2025/09/07/🌟 20 Chuyên Gia YouTube Nên Follow.md",
+    "03-DAILY/2025/09/08/2025-09-08 - Video  Facebook.md",
+    "03-DAILY/2025/09/07/💸 20 Mô hình MMO hiệu quả nhất hiện nay (2025).md",
+    "03-DAILY/2025/09/07/🛡️ Vô hiệu hóa Windows Update vĩnh viễn.md",
+    "03-DAILY/2025/09/07/👩‍⚖️ 20 Chuyên gia Influencer hàng đầu trong lĩnh vực pháp lý, thuế và vận hành doanh nghiệp tại Việt Nam.md",
+    "03-DAILY/2025/09/07/🛡️ Tắt cập nhật Windows Update.md",
+    "03-DAILY/2025/09/07/🛠️20 Giải pháp (Công cụ Website, Phần mềm) hỗ trợ tuân thủ pháp luật và thuế tại Việt Nam.md",
+    "03-DAILY/2025/09/07/🌟 20 nhân vật ảnh hưởng trong YouTube SEO, AI NLP & Content Analytics.md",
+    "03-DAILY/2025/09/07/🌟 20 nhân vật ảnh hưởng nên follow để học làm YouTube.md",
+    "03-DAILY/2025/09/07/🌟 20 Chuyên Gia YouTube Nên Follow.md",
+    "03-DAILY/2025/09/07/Điều kỳ diệu của Biết.md",
+    "03-DAILY/2025/09/07/Youtube key thân cây.md",
+    "03-DAILY/2025/09/07/🌟 20 Người ảnh hưởng hàng đầu lĩnh vực MMO – Nên theo dõi.md",
+    "03-DAILY/2025/09/08",
+    "03-DAILY/2025/09/07",
+    "03-DAILY/2025/09/01",
+    "03-DAILY/2025/09",
+    "03-DAILY/2025",
+    "03-DAILY",
+    "02-RESOURCES/Research",
+    "02-RESOURCES",
+    "06-DAILY/2025/09/07",
+    "01-META/Attachments/Pasted image 20250905161008.png",
+    "01-META/Attachments/Pasted image 20250831231827.png",
+    "01-META/Attachments/Pasted image 20250905160630.png",
+    "01-META/Attachments/Pasted image 20250901202133.png"
+  ]
+}
