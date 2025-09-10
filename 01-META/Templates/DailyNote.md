@@ -1,11 +1,15 @@
+<%* await tp.user.create-daily-note(tp) %>
+created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
+modified: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
+aliases: [[<% tp.date.now("YYYY-MM-DD") %>]]
+tags: [daily/<% tp.date.now("YYYY") %>/<% tp.date.now("MM") %>/<% tp.date.now("YYYY-MM-DD") %> ]
+
 ---
-created: {{date:YYYY-MM-DD HH:mm:ss}}
-modified: {{date:YYYY-MM-DD HH:mm:ss}}
-aliases: [{{date:YYYY-MM-DD}}]
-tags: [daily/{{date:YYYY}}/{{date:MM}}/{{date:YYYY-MM-DD}} ]
----
-# <% tp.file.title %>
+Quotes
  <% tp.web.daily_quote() %>
+
+---
+
 
 
 

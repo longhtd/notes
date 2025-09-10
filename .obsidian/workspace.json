@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "01-META/Templates/DailyNote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "DailyNote"
             }
           }
         ]
@@ -161,31 +161,31 @@
       "switcher:Mở bộ chuyển đổi nhanh": false,
       "graph:Mở xem biểu đồ": false,
       "canvas:Tạo bảng mới": false,
-      "daily-notes:Mở ghi chú hôm nay": false,
       "templates:Chèn mẫu": false,
       "command-palette:Mở khay lệnh": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "d7f00880cc9c357a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "01-META/Templates/DailyNote.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "01-META/Scripts/create-daily-note.js",
     "01-META/Scripts",
     "01-META/scripts/create-daily-note.js",
     "01-META/scripts",
+    "Untitled.md",
+    "01-META/Templates/DailyNote.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "01-META/Attachments/Pasted image 20250905160630.png",
+    "Untitled 1.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
     "Chưa đặt tên.md",
     "Chưa đặt tên 2.md",
     "Chưa đặt tên 1.md",
@@ -206,7 +206,6 @@
     "06-DAILY/2025/09/07/🌟 20 Chuyên Gia YouTube Nên Follow.md",
     "03-DAILY/2025/09/08/2025-09-08 - Video  Facebook.md",
     "03-DAILY/2025/09/07/💸 20 Mô hình MMO hiệu quả nhất hiện nay (2025).md",
-    "03-DAILY/2025/09/07/🛡️ Vô hiệu hóa Windows Update vĩnh viễn.md",
     "03-DAILY/2025/09/08",
     "03-DAILY/2025/09/07",
     "03-DAILY/2025/09/01",
@@ -214,7 +213,6 @@
     "03-DAILY/2025",
     "01-META/Attachments/Pasted image 20250905161008.png",
     "01-META/Attachments/Pasted image 20250831231827.png",
-    "01-META/Attachments/Pasted image 20250905160630.png",
     "01-META/Attachments/Pasted image 20250901202133.png"
   ]
 }
