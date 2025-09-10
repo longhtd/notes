@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "attachmentFolderPath": "01-META/Attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "03-DAILY/YYYY/MM/DD",
