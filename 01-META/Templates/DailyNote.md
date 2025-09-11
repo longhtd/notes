@@ -1,15 +1,9 @@
-
-created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
-modified: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
-aliases: [[<% tp.date.now("YYYY-MM-DD") %>]]
-tags: [daily/<% tp.date.now("YYYY") %>/<% tp.date.now("MM") %>/<% tp.date.now("YYYY-MM-DD") %> ]
-
----
-Quotes
- <% tp.web.daily_quote() %>
+created: {{date:YYYY-MM-DD HH:mm:ss}}
+modified: {{date:YYYY-MM-DD HH:mm:ss}}
+aliases: [{{date:YYYY-MM-DD}}]
+tags: [daily, {{date:YYYY-MM-DD}}]
 
 ---
-
 
 
 

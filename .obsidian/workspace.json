@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "500701e5bf8876b0",
+        "id": "5511e24f0691d184",
         "type": "tabs",
         "children": [
           {
-            "id": "cd32740d3e6954e6",
+            "id": "15d562f4d8b21d87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-DAILY/2025/09/11/250911-000900.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "250911-000900"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hi vọng và sợ hãi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 424.5
   },
   "right": {
     "id": "f8ade20ce6338388",
@@ -156,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,7 +168,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Mở ghi chú hôm nay": false,
       "switcher:Mở bộ chuyển đổi nhanh": false,
       "graph:Mở xem biểu đồ": false,
       "canvas:Tạo bảng mới": false,
@@ -172,54 +175,58 @@
       "command-palette:Mở khay lệnh": false,
       "obsidian-git:Open Git source control": false,
       "audio-recorder:Bắt đầu/Dừng ghi âm": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "bases:Create new base": false
     }
   },
-  "active": "cd32740d3e6954e6",
+  "active": "4e7291b02d4d3d6b",
   "lastOpenFiles": [
-    "Chưa đặt tên.md",
-    "01-META/Templates/DailyNote.md",
-    "Chưa đặt tên.canvas",
+    "01-META/Attachments/LE VAN LONG QR .png",
+    "03-DAILY/2025/09/11/250911- bic webinar.md",
+    "03-DAILY/2025/09/11/250911-000900.md",
+    "01-META/Attachments/~$20240119 Bic Webinar.pptx",
+    "01-META/Attachments/20240119 Bic Webinar.pptx",
+    "03-DAILY/2025/09/07/Làm giàu bền vững.md",
+    "03-DAILY/2025/09/11/250911-101 câu truyện thiền trúc lâm.md",
+    "01-META/Attachments/101-cau-chuyen-thien-tran-truc-lam.pdf",
+    "01-META/Attachments/Pasted image 20250911192928.png",
+    "03-DAILY/2025/09/11/250911- social account.md",
+    "03-DAILY/2025/09/11/250911- youtube key styles.md",
+    "03-DAILY/2025/09/11/250911-Voice memo - bys.md",
+    "03-DAILY/2025/09/11/2025-09-11 - FramePack Full Tutorial 1-Click to Install on Windows - Up to 120 Second Image-to-Videos with 6GB.md",
+    "04-SUMMARY/view.table.base",
+    "99-MANAGEMENT/Plan",
+    "99-MANAGEMENT",
+    "04-SUMMARY/map.canvas",
+    "04-SUMMARY",
+    "03-DAILY/2025/09/11/250911-youtube revenue.md",
+    "01-META/Attachments/Pasted image 20250911180806.png",
+    "03-DAILY/2025/09/07/2025-09-07 - Abdullah Automation trên TikTok 1.md",
     "Untitled.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Chưa đặt tên",
-    "01-META/Scripts/create-daily-note.js",
-    "01-META/Scripts",
-    "01-META/scripts/create-daily-note.js",
-    "01-META/scripts",
-    "01-META/Attachments/Pasted image 20250905160630.png",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Chưa đặt tên 2.md",
-    "Chưa đặt tên 1.md",
-    "02-RESOURCES/Research/Templates.md",
-    "03-DAILY/2025/09/07/2025-09-07 - Nguyễn Tùng Sơn - Dạo gần đây Sơn chia sẻ khá nhiều với anh em về...  Facebook.md",
-    "01-META/Attachments/20250725-1355-39.1005303.mp4",
-    "01-META/Attachments/Pasted image 20250907232928.png",
-    "01-META/Attachments/Pasted image 20250907232244.png",
-    "01-META/Attachments/Pasted image 20250907231139.png",
-    "01-META/Attachments/Pasted image 20250907182150.png",
-    "03-DAILY/2025/09/07/Cụ Việt.md",
-    "03-DAILY/2025/09/01/2025-09-01 - Flow.md",
-    "03-DAILY/2025/09/01/2025-09-01 - Tài khoản VEO 3 AI, Google AI Ultra giá rẻ, Google đang thắt chặt đăng ký  Viết bởi yoyonguyen.md",
-    "03-DAILY/2025/09/07/2025-09-07- Cụ Diệu - thiết bị.md",
-    "03-DAILY/2025/09/01/2025-09-01 - LABS.GOOGLE.md",
-    "03-DAILY/2025/09/01/2025-09-01 - ‎Google Gemini.md",
+    "03-DAILY/2025/09/07/🛡️ Tắt cập nhật Windows Update.md",
     "02-RESOURCES/Research/Long Le.md",
-    "06-DAILY/2025/09/07/🌟 20 Chuyên Gia YouTube Nên Follow.md",
-    "03-DAILY/2025/09/08/2025-09-08 - Video  Facebook.md",
-    "03-DAILY/2025/09/07/💸 20 Mô hình MMO hiệu quả nhất hiện nay (2025).md",
-    "03-DAILY/2025/09/08",
-    "03-DAILY/2025/09/07",
-    "03-DAILY/2025/09/01",
-    "03-DAILY/2025/09",
-    "01-META/Attachments/Pasted image 20250905161008.png",
-    "01-META/Attachments/Pasted image 20250831231827.png",
-    "01-META/Attachments/Pasted image 20250901202133.png"
+    "03-DAILY/2025/09/11/250911-frame stack.md",
+    "03-DAILY/2025/09/10/250910-000900.md",
+    "01-META/Attachments/Pasted image 20250911180738.png",
+    "01-META/Attachments/Pasted image 20250911180648.png",
+    "03-DAILY/2025/09/11/2025-09-11 - Hướng Dẫn Khai Báo & Nộp Thuế Thu Nhập Cá Nhân Online Mới Nhất 2025.md",
+    "02-RESOURCES/Research/Youtube.md",
+    "03-DAILY/2025/09/11/250911-static shot, locked-off camera.md",
+    "03-DAILY/2025/09/11/2025-09-11 - lllyasvielFramePack Lets make video diffusion practical!.md",
+    "03-DAILY/2025/09/11/2025-09-11 - lllyasvielFramePack Lets make video diffusion practical! 1.md",
+    "01-META/Attachments/Pasted image 20250910192850.png",
+    "03-DAILY/2025/09/11",
+    "03-DAILY/2025/09/10/250910-mini pc.md",
+    "01-META/Attachments/z6993460354317_ba72a62cf4ab5fbb46259aacdb7b428e.jpg",
+    "03-DAILY/2025/09/10/250910-vnid.md",
+    "01-META/Attachments/Pasted image 20250910160721.png",
+    "01-META/Attachments/Pasted image 20250910160709.png",
+    "01-META/Attachments/Pasted image 20250910160547.png",
+    "01-META/Attachments/Pasted image 20250910160524.png",
+    "03-DAILY/2025/09/07/🛠️20 Giải pháp (Công cụ Website, Phần mềm) hỗ trợ tuân thủ pháp luật và thuế tại Việt Nam.md",
+    "03-DAILY/2025/09/07/2025-09-07 - Mental Dose.md",
+    "01-META/Templates/DailyNote.md",
+    "03-DAILY/2025/09/10",
+    "01-META/Scripts/create-daily-note.js"
   ]
 }
