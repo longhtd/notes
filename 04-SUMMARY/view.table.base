@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - '!file.name.startsWith("Pasted")'
+        - '!file.inFolder("01-META/Attachments")'
     order:
       - file.name
       - file.ctime
