@@ -29,7 +29,7 @@ tags: [daily, 2025-09-16]
 			1. No for Kids
 	3. Upload defaults
 		1. Basic Info
-			1. Description [[Youtube/Templates/Description/OfficeRevenge]]
+			1. Description [[OfficeRevenge]]
 			2. Visibility: Public
 			3. Tags: [[20250915- revenge keywords]]
 		2. Advance Settings
