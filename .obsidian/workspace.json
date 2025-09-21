@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5511e24f0691d184",
+        "id": "9de3d61936135bcc",
         "type": "tabs",
         "children": [
           {
-            "id": "15d562f4d8b21d87",
+            "id": "40553df6aab267cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-DAILY/2025/09/11/20250911- 30 days to save your self.md",
+                "file": "03-DAILY/2025/09/21/20250921-Notes Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250911- 30 days to save your self"
-            }
-          },
-          {
-            "id": "8948ca06c07d7e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-DAILY/2025/09/11/20250911- Sách affiliate tiktok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250911- Sách affiliate tiktok"
+              "title": "20250921-Notes Management"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hi vọng và sợ hãi",
-                "matchingCase": false,
+                "query": "veo3",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -142,7 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -156,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03-DAILY/2025/09/21/20250921-Notes Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương"
+              "title": "Đề cương của 20250921-Notes Management"
             }
           },
           {
@@ -175,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,57 +176,58 @@
       "command-palette:Mở khay lệnh": false,
       "obsidian-git:Open Git source control": false,
       "audio-recorder:Bắt đầu/Dừng ghi âm": false,
-      "periodic-notes:Open today": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8948ca06c07d7e60",
+  "active": "4e7291b02d4d3d6b",
   "lastOpenFiles": [
-    "04-SUMMARY/view.table.base",
-    "03-DAILY/2025/09/11/20250911- Sách affiliate tiktok.md",
-    "03-DAILY/2025/09/11/20250911- 30 days to save your self.md",
+    "03-DAILY/2025/09/21/20250921- zam revenue.md",
+    "03-DAILY/2025/09/21/20250921-Notes Management.md",
+    "03-DAILY/2025/09/07/Cụ Việt.md",
+    "03-DAILY/2025/09/21",
+    "01-META/Attachments/config.json",
+    "01-META/Attachments/videos_downloaded/run_20250921_024242/temp_prompt_1_bea414",
+    "01-META/Attachments/videos_downloaded/run_20250921_024242",
+    "01-META/Attachments/videos_downloaded/run_20250921_024038/temp_prompt_1_ea0790",
+    "01-META/Attachments/videos_downloaded/run_20250921_024038",
+    "01-META/Attachments/cookie.txt",
+    "01-META/Attachments/videos_downloaded/run_20250921_023517/temp_prompt_1_c66072",
+    "01-META/Attachments/videos_downloaded/run_20250921_023517/temp_prompt_1_e49421",
+    "01-META/Attachments/videos_downloaded/run_20250921_023517/temp_prompt_1_4238d9",
+    "01-META/Attachments/VEO3V4/tk/images/logoMed.gif",
+    "01-META/Attachments/VEO3V4/tk/images/logoLarge.gif",
+    "01-META/Attachments/VEO3V4/tk/images/logo64.gif",
+    "01-META/Attachments/VEO3V4/tk/images/logo100.gif",
+    "03-DAILY/2025/09/20/20250920- SRD – Ứng dụng tạo video tự động qua Web + Selenium Backend.md",
+    "03-DAILY/2025/09/20/20250920-Chi phí sử dụng công cụ.md",
+    "Youtube/Templates/Description/OfficeRevenge.md",
+    "03-DAILY/2025/09/20/20250920- zam creator dashboard.md",
+    "03-DAILY/2025/09/19/20250919- zam creator Dashboard.md",
+    "03-DAILY/2025/09/18/20250918- channel brand.md",
+    "03-DAILY/2025/09/18/20250918-supabase.com.md",
+    "03-DAILY/2025/09/18/20250918-000900.md",
+    "03-DAILY/2025/09/18/20250918-Hướng dẫn Cấu hình Đăng nhập Google cho Supabase.md",
+    "03-DAILY/2025/09/13/20250913- Mua Mini PC.md",
+    "03-DAILY/2025/09/13/20250913-Mua bàn phím Logitech K120.md",
     "04-SUMMARY/map.canvas",
+    "03-DAILY/2025/09/18/20250918- Prompt tạo thương hiệu kênh v3.md",
+    "03-DAILY/2025/09/16/20250916- youtube channel brand setup.md",
+    "03-DAILY/2025/09/15/20250915- revenge keywords.md",
+    "Youtube/Templates/Description/Welcome channel.md",
+    "03-DAILY/2025/09/17/20250917-mini pc.md",
+    "03-DAILY/2025/09/17/20250917- Phượng hoàng lửa - Tezuka.md",
+    "01-META/Attachments/Pasted image 20250917233324.png",
+    "03-DAILY/2025/09/07/G8-1.8.md",
+    "03-DAILY/2025/09/07/G8 Chat Memo - 23.07.2025.md",
     "99-MANAGEMENT/20250911- QR Long Le.md",
-    "01-META/Attachments/15-JaimeCross.pdf",
-    "03-DAILY/2025/09/11/20250911- Luvina du lịch hè 2016.md",
-    "01-META/Attachments/Lu Tổng hợp đăng ký du lịch hè 2016 -14.6.2016 - xep phong - xep xe.xlsx",
-    "03-DAILY/2025/09/11/20250911- Rank 1 on Search for TikTok Marketing.md",
-    "01-META/Attachments/TikTok SEO_ Rank #1 on Search for TikTok Marketing.pptx",
-    "03-DAILY/2025/09/11/20250911- youtube key styles.md",
-    "03-DAILY/2025/09/11/20250911-101 câu truyện thiền trúc lâm.md",
-    "03-DAILY/2025/09/11/20250911-frame stack.md",
-    "03-DAILY/2025/09/11/20250911-static shot, locked-off camera.md",
-    "03-DAILY/2025/09/11/20250911-Voice memo - bys.md",
-    "03-DAILY/2025/09/11/20250911-youtube revenue.md",
-    "03-DAILY/2025/09/11/20250911- social account.md",
-    "03-DAILY/2025/09/11/20250911- bic webinar.md",
-    "03-DAILY/2025/09/11/2025-09-11 - lllyasvielFramePack Lets make video diffusion practical!.md",
-    "01-META/Attachments/LE VAN LONG QR .png",
-    "01-META/Attachments/~$20240119 Bic Webinar.pptx",
-    "01-META/Attachments/20240119 Bic Webinar.pptx",
-    "03-DAILY/2025/09/07/Làm giàu bền vững.md",
-    "01-META/Attachments/101-cau-chuyen-thien-tran-truc-lam.pdf",
-    "01-META/Attachments/Pasted image 20250911192928.png",
-    "03-DAILY/2025/09/11/2025-09-11 - FramePack Full Tutorial 1-Click to Install on Windows - Up to 120 Second Image-to-Videos with 6GB.md",
-    "99-MANAGEMENT/Plan",
-    "99-MANAGEMENT",
-    "04-SUMMARY",
-    "01-META/Attachments/Pasted image 20250911180806.png",
-    "03-DAILY/2025/09/07/2025-09-07 - Abdullah Automation trên TikTok 1.md",
-    "Untitled.md",
-    "03-DAILY/2025/09/07/🛡️ Tắt cập nhật Windows Update.md",
-    "02-RESOURCES/Research/Long Le.md",
-    "03-DAILY/2025/09/10/250910-000900.md",
-    "01-META/Attachments/Pasted image 20250911180738.png",
-    "01-META/Attachments/Pasted image 20250911180648.png",
-    "03-DAILY/2025/09/11/2025-09-11 - Hướng Dẫn Khai Báo & Nộp Thuế Thu Nhập Cá Nhân Online Mới Nhất 2025.md",
-    "02-RESOURCES/Research/Youtube.md",
-    "03-DAILY/2025/09/11/2025-09-11 - lllyasvielFramePack Lets make video diffusion practical! 1.md",
-    "01-META/Attachments/Pasted image 20250910192850.png",
-    "03-DAILY/2025/09/10/250910-mini pc.md",
-    "01-META/Attachments/z6993460354317_ba72a62cf4ab5fbb46259aacdb7b428e.jpg",
-    "01-META/Attachments/Pasted image 20250910160721.png",
-    "01-META/Attachments/Pasted image 20250910160709.png",
-    "01-META/Attachments/Pasted image 20250910160547.png"
+    "03-DAILY/2025/09/17/20250917- Buy adsense.md",
+    "03-DAILY/2025/09/16/20250916- Lãng tử phiêu bạt.md",
+    "03-DAILY/2025/09/16/20250916- Cách làm tổng hợp.md",
+    "01-META/Attachments/Pasted image 20250916215123.png",
+    "01-META/Attachments/Pasted image 20250916215049.png",
+    "01-META/Attachments/Pasted image 20250916214853.png",
+    "01-META/Attachments/Pasted image 20250916214752.png",
+    "01-META/Attachments/Pasted image 20250916214652.png"
   ]
 }
